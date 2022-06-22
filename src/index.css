@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  padding: 0;
+}
+
+.findCharHeader {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #ffff;
+  background: linear-gradient(to right, #8360c3, #2ebf91);
+  
+}
+
+
+h1, h2 {
+  padding: 0.5rem;
+}
+
+h1 {
+  border: 2px solid black;
+  font-family: Rockwell;
+  font-size: 60px;
+}
+
+
+body {
+  background: linear-gradient(to right, #8360c3, #2ebf91);
+}
+.box {
+  border: 0;
+}
+
+.box.visible {
+  border: 5px solid rgb(149, 11, 11);
+  width: 70px;
+  height: 70px;
+
+}
+
+img {
+  border: 5px solid black;
+  border-radius: 0.2rem;
+}
